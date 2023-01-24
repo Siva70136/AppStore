@@ -1,0 +1,15 @@
+.tab {
+  background-color: transparent;
+  list-style: none;
+  cursor: pointer;
+  outline: none;
+}
+.active {
+  border-bottom: 3px solid blue;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  font-size: 18px;
+}
